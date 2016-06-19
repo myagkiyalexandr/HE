@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HE-web:war">
+    <output-path>$PROJECT_DIR$/HE-web/target</output-path>
+    <root id="archive" name="HE-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="HE-web:war exploded" />
+    </root>
+  </artifact>
+</component>

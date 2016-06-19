@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HE.iml" filepath="$PROJECT_DIR$/HE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HE-ear/HE-ear.iml" filepath="$PROJECT_DIR$/HE-ear/HE-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HE-ejb/HE-ejb.iml" filepath="$PROJECT_DIR$/HE-ejb/HE-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HE-web/HE-web.iml" filepath="$PROJECT_DIR$/HE-web/HE-web.iml" />
+    </modules>
+  </component>
+</project>
